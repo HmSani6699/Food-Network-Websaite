@@ -1,0 +1,30 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h3{
+    font-size: 60px;
+}
+.skip{
+    color: #ff814f;
+}
+.first-part{
+    display: flex;
+    
+}
+.halif-witdh{
+    width: 50%;
+    margin-left:100px ;
+    margin-top: 50px;
+    padding-left: 10px;
+}
+.halif-witdh img{
+    width: 95%;
+}
+.hire-me{
+    text-decoration: none;
+    background-image: linear-gradient(lightsalmon,#ff6347);
+    color: #ffffff;
+    border-radius: 25px;
+    font-size:10px ;
+    padding: 7px 25px;
+}
