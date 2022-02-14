@@ -7,15 +7,13 @@ h3{
 .skip{
     color: #ff814f;
 }
-.first-part{
+.flex{
     display: flex;
-    
 }
 .halif-witdh{
     width: 50%;
-    margin-left:100px ;
     margin-top: 50px;
-    padding-left: 10px;
+    margin-left: 80px;
 }
 .halif-witdh img{
     width: 95%;
@@ -25,6 +23,15 @@ h3{
     background-image: linear-gradient(lightsalmon,#ff6347);
     color: #ffffff;
     border-radius: 25px;
-    font-size:10px ;
-    padding: 7px 25px;
+    font-size:12px ;
+    padding: 13px 25px;
+}
+.margin{
+    margin-top: 150px;
+    margin-right: 90px;
+    margin-left: 150px;
+}
+.backgrount{
+    background-image: url(images/shapes/backgrount.png);
+    background-repeat: no-repeat;
 }
