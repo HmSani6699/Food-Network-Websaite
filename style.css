@@ -4,19 +4,22 @@ body{
 h3{
     font-size: 60px;
 }
+h1{
+    font-size: 40px;
+}
 .skip{
     color: #ff814f;
 }
 .flex{
     display: flex;
+    padding-left: 90px;
+    margin-top: 40px;
 }
 .halif-witdh{
     width: 50%;
-    margin-top: 50px;
-    margin-left: 80px;
 }
 .halif-witdh img{
-    width: 95%;
+    width: 90%;
 }
 .hire-me{
     text-decoration: none;
@@ -26,12 +29,40 @@ h3{
     font-size:12px ;
     padding: 13px 25px;
 }
-.margin{
-    margin-top: 150px;
-    margin-right: 90px;
-    margin-left: 150px;
+.top{
+    padding-top: 120px;
+    padding-right: 70px;
 }
 .backgrount{
     background-image: url(images/shapes/backgrount.png);
-    background-repeat: no-repeat;
+}
+.my{
+    text-align: center;
+    margin-bottom: 70px;
+}
+.titale{
+    display: flex;
+    margin-left: 40px;
+    margin-right:50px ;
+}
+.box{
+    box-shadow: 10px 10px 40px gray;
+    padding-left: 32px;
+    padding-top: 30px;
+    margin:1px 30px ;
+    border-radius: 20px;
+}
+.food{
+    color: lightsalmon;
+}
+.network{
+    color:gray ;
+}
+.footer{
+    text-align: center;
+    background-color: black;
+    height: 150px;
+    color: white;
+    padding-top: 20px;
+    margin-top: 300px;
 }
