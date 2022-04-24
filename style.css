@@ -1,68 +1,94 @@
-body{
+body {
     font-family: 'Poppins', sans-serif;
 }
-h3{
+
+h3 {
     font-size: 60px;
 }
-h1{
+
+h1 {
     font-size: 40px;
 }
-.skip{
+
+.skip {
     color: #ff814f;
 }
-.flex{
+
+.flex {
     display: flex;
     padding-left: 90px;
     margin-top: 40px;
 }
-.halif-witdh{
+
+.halif-witdh {
     width: 50%;
 }
-.halif-witdh img{
+
+.halif-witdh img {
     width: 90%;
 }
-.hire-me{
+
+.hire-me {
     text-decoration: none;
-    background-image: linear-gradient(lightsalmon,#ff6347);
+    background-image: linear-gradient(lightsalmon, #ff6347);
     color: #ffffff;
     border-radius: 25px;
-    font-size:12px ;
+    font-size: 12px;
     padding: 13px 25px;
 }
-.top{
+
+.top {
     padding-top: 120px;
     padding-right: 70px;
 }
-.backgrount{
+
+.backgrount {
     background-image: url(images/shapes/backgrount.png);
 }
-.my{
+
+.my {
     text-align: center;
     margin-bottom: 70px;
 }
-.titale{
+
+.titale {
     display: flex;
     margin-left: 40px;
-    margin-right:50px ;
+    margin-right: 50px;
 }
-.box{
+
+.box {
     box-shadow: 10px 10px 40px gray;
     padding-left: 32px;
     padding-top: 30px;
-    margin:1px 30px ;
+    margin: 1px 30px;
     border-radius: 20px;
 }
-.food{
+
+.food {
     color: lightsalmon;
 }
-.network{
-    color:gray ;
+
+.network {
+    color: gray;
 }
-.footer{
+
+.footer {
     text-align: center;
     background-color: black;
     height: 150px;
     color: white;
     padding-top: 20px;
     margin-top: 300px;
+}
+
+.section {
+    margin-top: 70px;
+}
+
+.amount-tack {
+    display: flex;
+    padding: 30px;
+    box-shadow: 10px 10px 40px gainsboro;
+    justify-content: space-around;
 }
